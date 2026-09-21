@@ -14,8 +14,7 @@ I _will_ respond once I feel confident that I can meaningfully contribute.
 - I like to write things down. Having a written and easy to find record has a lot
 of benefits like historical analysis and conducivity to deep though.
 - I heavily use a stacked diffs workflow, and I almost exclusively use `jj` to
-work with Git repos. You'll likely see random looking branches in my PRs as a result.
-I'm not attached branch naming conventions.
+work with Git repos.
 
 I'm open to adapting how I do things, so let me know if you have
 differing preferences, or if you have tips on how I could do something
